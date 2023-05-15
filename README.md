@@ -6,7 +6,7 @@ Welcome to the Online Examination Portal project! This system is designed to pro
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. purpose
+2. purpose(#purpose)
 3. [Features](#features)
 4. UI representation of the app (images)
 5. Functional Requirement
